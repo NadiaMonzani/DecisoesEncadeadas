@@ -1,4 +1,4 @@
-de_nome = input("Digite o nome: ")
+nome = input("Digite o nome: ")
 idade = int(input("Digite a idade "))
 doenca_infectocontagiosa = input("Suspeita de doenca infectocontagiosa? ").upper()
 if idade >= 65:
